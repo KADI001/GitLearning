@@ -1,0 +1,1 @@
+"New feature2 in the new-feature2 branch" 
